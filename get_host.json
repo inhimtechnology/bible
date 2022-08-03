@@ -1,0 +1,29 @@
+{
+		type: 0,
+		tips: "成功!",
+		host: [{
+				"id": 3,
+				"host": "https://apiv1.zhuneishengjing.com",
+				"title": "新加坡 1",
+				"sorts": 1
+			},
+			{
+				"id": 4,
+				"host": "https://v1api.sea.bibles.app",
+				"title": "新加坡 2",
+				"sorts": 2
+			},
+			{
+				"id": 5,
+				"host": "https://apiv1.weishengjing.com",
+				"title": "新加坡 3",
+				"sorts": 3
+			},
+			{
+				"id": 6,
+				"host": "https://v1api.android.weidushengjing.net",
+				"title": "中国(北京)",
+				"sorts": 4
+			}
+		]
+	}
