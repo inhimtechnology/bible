@@ -2,28 +2,34 @@
 	"type": 0,
 	"tips": "成功!",
 	"host": [{
-			"id": 3,
-			"host": "https://apiv1.zhuneishengjing.com",
-			"title": "新加坡 1",
-			"sorts": 1
-		},
-		{
-			"id": 4,
-			"host": "https://v1api.sea.bibles.app",
-			"title": "新加坡 2",
-			"sorts": 2
-		},
-		{
-			"id": 5,
-			"host": "https://apiv1.weishengjing.com",
-			"title": "新加坡 3",
-			"sorts": 3
-		},
-		{
-			"id": 6,
-			"host": "https://v1api.android.weidushengjing.net",
-			"title": "中国(北京)",
-			"sorts": 4
-		}
+		"id": 1,
+				"host": "YUhSMGNITTZMeTloY0drdWFXNW9hVzFqYkc5MVpDNWpiMjA9",
+				"title": "新加坡 1",
+				"sorts": 1
+			},
+			{
+				"id": 2,
+				"host": "YUhSMGNITTZMeTloY0drdWVtaDFibVZwTG01bGRBPT0=",
+				"title": "新加坡 2",
+				"sorts": 2
+			},
+			{
+				"id": 5,
+				"host": "YUhSMGNITTZMeTkyTVdGd2FTNWhibVJ5YjJsa0xuZGxhV1IxYzJobGJtZHFhVzVuTG01bGRBPT0=",
+				"title": "中国(北京)",
+				"sorts": 3
+			},
+			{
+				"id": 3,
+				"host": "YUhSMGNEb3ZMemd1TWpFNUxqRTBOUzR6Tmc9PQ==",
+				"title": "新加坡 3",
+				"sorts": 4
+			},
+			{
+				"id": 4,
+				"host": "YUhSMGNEb3ZMelUwTGpJMU1TNHlNVEF1TkRNPQ==",
+				"title": "新加坡 4",
+				"sorts": 5
+			}
 	]
 }
