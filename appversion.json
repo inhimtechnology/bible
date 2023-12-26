@@ -4,7 +4,7 @@
 	"data": {
 		"type": 0,
 		"intro": "更新服务地址",		
-		"iosurl": "https://v1api.android.weidushengjing.net",
-		"andurl": "https://v1api.android.weidushengjing.net"
+		"iosurl": "https://bfaip.com",
+		"andurl": "https://bfaip.com"
 	}
 }
